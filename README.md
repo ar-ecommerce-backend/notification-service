@@ -1,6 +1,6 @@
 # notification-service
 
-Notifications for the [ar-ecommerce-platform](https://github.com/ar-ecommerce-platform).
+Notifications for the [ar-ecommerce-backend](https://github.com/ar-ecommerce-backend).
 
 > **Demo stand-in.** Notifications are held in memory and logged — no real email / SMS delivery.
 
